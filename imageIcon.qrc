@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgIcon/poke-ball.png</file>
+        <file>imgIcon/ico.png</file>
+        <file>imgIcon/ico2.png</file>
+        <file>imgIcon/appbar.calendar.year.png</file>
+        <file>imgIcon/appbar.draw.pencil.reflection.png</file>
+        <file>imgIcon/appbar.cog.png</file>
+        <file>imgIcon/appbar.close.png</file>
+        <file>imgIcon/appbar.people.profile.png</file>
+        <file>imgIcon/appbar.magnify.1.png</file>
+        <file>imgIcon/appbar.magnify.2.png</file>
+        <file>imgIcon/appbar.graph.line.down.png</file>
+        <file>imgIcon/appbar.clipboard.variant.edit.png</file>
+        <file>imgIcon/appbar.paper.png</file>
+        <file>imgIcon/appbar.close.2.png</file>
+        <file>imgIcon/appbar.card.1.png</file>
+        <file>imgIcon/appbar.card.2.png</file>
+        <file>imgIcon/appbar.card.3.png</file>
+        <file>imgIcon/appbar.card.4.png</file>
+        <file>imgIcon/appbar.card.5.png</file>
+        <file>imgIcon/appbar.check.png</file>
+        <file>imgIcon/appbar.edit.add.png</file>
+        <file>imgIcon/appbar.user.add.png</file>
+        <file>imgIcon/appbar.notification.above.multiple.png</file>
+        <file>imgIcon/appbar.transit.hazard.png</file>
+        <file>imgIcon/appbar.information.circle.png</file>
+        <file>imgIcon/appbar.people.checkbox.png</file>
+        <file>imgIcon/appbar.people.status.png</file>
+        <file>imgIcon/ad.png</file>
+        <file>imgIcon/appbar.chevron.down.png</file>
+        <file>imgIcon/appbar.chevron.up.png</file>
+        <file>imgIcon/appbar.social.github.octocat.png</file>
+        <file>imgIcon/appbar.disk.upload.png</file>
+        <file>imgIcon/mesure.png</file>
+        <file>imgIcon/appbar.scrabble.u.png</file>
+        <file>imgIcon/appbar.scrabble.s.png</file>
+        <file>imgIcon/appbar.scrabble.n.png</file>
+        <file>imgIcon/appbar.scrabble.h.png</file>
+    </qresource>
+</RCC>
